@@ -13,17 +13,17 @@ export default function Hero() {
           className="max-w-none"
         >
           <p className="text-eyebrow text-[#666666] mb-6 md:mb-8">
-            B2B Outbound Origination — Vol. 01 / MMXXVI
+            B2B Outbound Origination
           </p>
 
           <h1 className="font-serif text-display text-[#0A0A0A] mb-6 md:mb-8">
-            The pipeline you can&apos;t build with referrals,
+            We build and run your outbound engine
             <br className="hidden md:block" />
-            <span className="block md:inline"> and can&apos;t afford to build with SDRs.</span>
+            <span className="block md:inline"> — without the headcount.</span>
           </h1>
 
           <p className="text-body text-[#666666] max-w-prose mb-8 md:mb-12">
-            We run outsourced outbound origination for B2B companies — replacing the sales hire you can&apos;t justify and the inbound engine that takes years to build.
+            Leads, infrastructure, copy, deliverability — we handle the entire cold email system. Full access, full transparency, and only the replies worth your time.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 mb-16 md:mb-24">
